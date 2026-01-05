@@ -125,12 +125,16 @@ If a system is unAI-compliant:
 
 ## Documentation
 
+### Core Documents
 - **[Kernel Specification](docs/KERNEL-SPEC.md)** - Complete formal spec (GKS-1.0)
 - **[Governance Table](docs/GOVERNANCE-TABLE.md)** - Architecture map (11 principles → 8 components)
 - **[Framework Library](frameworks/)** - 96 complete instantiations
 - **[Taxonomy](docs/TAXONOMY.md)** - Organized by domain and constraint type
 - **[FAQ](docs/FAQ.md)** - Common questions answered
 - **[Glossary](docs/GLOSSARY.md)** - Term definitions
+
+### PDF Resources
+- **[CLAUDE-1.pdf](docs/pdfs/CLAUDE-1.pdf)** - Primary reference document
 
 ---
 
